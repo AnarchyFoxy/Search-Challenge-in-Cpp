@@ -79,7 +79,7 @@ int main() {
     // Test the function with the example input
     std::string input = "Today, is the greatest day ever!";
     std::string output = searching_challenge(input);
-    std::cout << output << std::endl; // Output: "greatestegfXhXstegfs90hz78bgreatestegfXhXstegfs90hz78b"
+    std::cout << output << std::endl; // Output: "grXatXstXgfX90Xz7XbgrXatXstXgfX90Xz7Xb"
 
     return 0;
 }
